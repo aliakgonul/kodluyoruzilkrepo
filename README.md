@@ -1,20 +1,38 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-# ÖDEV ADIM 1
+Bu repo kodluyoruz Git egitimimizde olusturdugumuz ilk repo. Icerisinde bir adet README dosyasi, bir adet de index.html barindiriyor.
+![Lorem Picsum Gorsel](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/github.png)
+# Installation
+Oncelikle projeyi clonelayin.
+
+https://github.com/gultekinhaluk/kodluyoruzilkrepo.git
+# Usage
+Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
+
+Linux için:
+
+cd kodluyoruzilkrepo
+code .
+Contributing
+Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
+
+License
+
+# İLAVELER
+[PATİKAYA GİTMEK İÇİN TIKLA](https://www.patika.dev)
+
+![Lorem Picsum Gorsel](https://imgyukle.com/f/2022/01/18/opt8PI.png)
 
 
-- LİNK EKLEME
-- [PATİKAYA GİTMEK İÇİN TIKLA](https://www.patika.dev
-)
-- RESİM EKLEME
-- ! [DEV PATİKA](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftr.linkedin.com%2Fin%2Fdilayapici&psig=AOvVaw0zTsnfrT0KYuCVGX03OLwe&ust=1642616436853000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIDEyZ31u_UCFQAAAAAdAAAAABAO)
-  
-```python
-print("hello world")
-```
 
-```javascript
-console.log("hello world")
-```
+
+
+ 
+
+
+
+
+
+
+
 
 
